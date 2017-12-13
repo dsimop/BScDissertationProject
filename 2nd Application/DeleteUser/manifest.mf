@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: gr.aegean.deleteuser
+OpenIDE-Module-Layer: gr/aegean/deleteuser/layer.xml
+OpenIDE-Module-Localizing-Bundle: gr/aegean/deleteuser/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

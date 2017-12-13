@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="gr.aegean.math.friendsdisplay">
+    <module_version install_time="1496332208750" last="true" origin="installer" specification_version="1.0">
+        <file crc="4061965690" name="config/Modules/gr-aegean-math-friendsdisplay.xml"/>
+        <file crc="2660464372" name="modules/gr-aegean-math-friendsdisplay.jar"/>
+    </module_version>
+</module>

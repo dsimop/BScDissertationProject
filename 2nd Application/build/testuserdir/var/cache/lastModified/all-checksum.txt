@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.1\platform=1468242686358
+cluster.C:/Users/dsimo/Dropbox/Πτυχιακή/SocialNetworkNB-outlineview/build/cluster=1468248532936
+cluster.C:/Program Files/NetBeans 8.1/platform=1468242686358
+user=1468248532936
+crc=7
+locale=el_GR
+branding=socialnetworknb
+java.version=1.8.0_91
+java.vm.version=25.91-b14

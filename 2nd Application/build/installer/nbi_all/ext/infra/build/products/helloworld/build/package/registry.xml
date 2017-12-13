@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="registry.xsd">
+    <components>
+        <product uid="socialnetworknb" version="1.0.0.0.0" platforms="generic" status="not-installed" offset="20000" expand="false" built="1468050451947" visible="true" features="">
+            <display-name>
+                <default><![CDATA[SocialNetworkNB]]></default>
+            </display-name>
+            <description>
+                <default><![CDATA[]]></default>
+            </description>
+            <icon size="821" md5="05e2a8559297e66601b0275dfbb75f60">
+                <default-uri>resource:products/socialnetworknb/1.0.0.0.0/generic/icon.png</default-uri>
+            </icon>
+            <properties>
+                <property name="installation.location"><![CDATA[$N{install}/socialnetworknb]]></property>
+                <property name="installation.location.windows"><![CDATA[$N{install}/socialnetworknb]]></property>
+                <property name="installation.location.macosx"><![CDATA[$N{install}/socialnetworknb.app]]></property>
+            </properties>
+            <configuration-logic>
+                <file size="36487" md5="f929a34eab4e6edcafbe1814e9041df0">
+                    <default-uri>resource:products/socialnetworknb/1.0.0.0.0/generic/logic/logic,1.jar</default-uri>
+                </file>
+            </configuration-logic>
+            <installation-data>
+                <file size="17986850" md5="54a45d298f6fd3f35ba747dc1eefa26c">
+                    <default-uri>resource:products/socialnetworknb/1.0.0.0.0/generic/data/data,1.jar</default-uri>
+                </file>
+            </installation-data>
+            <system-requirements>
+                <disk-space>41171299</disk-space>
+            </system-requirements>
+        </product>
+    </components>
+</registry>

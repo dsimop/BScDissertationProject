@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="gr_aegean_math_friendsdisplay">
+                <file name="friendsdisplay" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//gr.aegean.math.friendsdisplay//friendsdisplay//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="gr">
+                <folder name="aegean">
+                    <folder name="math">
+                        <folder name="friendsdisplay">
+                            <file name="friendsdisplayTopComponent">
+                                <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//gr_aegean_math_friendsdisplay/friendsdisplay.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="gr_aegean_math_friendsdisplay">
+                <file name="friendsdisplay.instance">
+                    <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="gr.aegean.math.friendsdisplay.friendsdisplayTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="gr.aegean.math.friendsdisplay.friendsdisplayTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="gr-aegean-math-friendsdisplay-friendsdisplayTopComponent.shadow">
+                <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/gr-aegean-math-friendsdisplay-friendsdisplayTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="friendsdisplayTopComponent.settings">
+                <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="gr.aegean.math.friendsdisplay.friendsdisplayTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="output">
+                <file name="friendsdisplayTopComponent.wstcref">
+                    <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="friendsdisplayTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="gr-aegean-math-friendsdisplay-friendsdisplayTopComponent.instance">
+                <!--gr.aegean.math.friendsdisplay.friendsdisplayTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="gr.aegean.math.friendsdisplay.friendsdisplayTopComponent"/>
+                <attr name="preferredID" stringvalue="friendsdisplayTopComponent"/>
+                <attr
+                    bundlevalue="gr.aegean.math.friendsdisplay.Bundle#CTL_friendsdisplayAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

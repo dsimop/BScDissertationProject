@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="gr.aegean.math.explorerlist">
+    <module_version install_time="1496332206562" last="true" origin="installer" specification_version="1.0">
+        <file crc="3864136763" name="config/Modules/gr-aegean-math-explorerlist.xml"/>
+        <file crc="2945095030" name="modules/gr-aegean-math-explorerlist.jar"/>
+    </module_version>
+</module>
